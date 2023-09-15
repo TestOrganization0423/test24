@@ -5,8 +5,7 @@
   "author": "Discourse",
   "license": "GPL-2.0-only",
   "devDependencies": {
-    "@discourse/moment-timezone-names-translations": "^1.0.0",
-    "@fortawesome/fontawesome-free": "5.15.4"
+    "@discourse/moment-timezone-names-translations": "^1.0.0"
   },
   "engines": {
     "node": "16.* || >= 18",
